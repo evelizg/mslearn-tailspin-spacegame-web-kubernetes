@@ -1,5 +1,5 @@
 trigger:
-- 'master'
+- 'slave'
 
 variables:
   buildConfiguration: 'Release'
